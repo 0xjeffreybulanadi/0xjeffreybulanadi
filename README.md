@@ -1,4 +1,4 @@
-# Yo, Why are you here? Looking for me?
+# Yo, Looking for me?
 
 > *Private stash. Git lost.*  
 > think twice.
