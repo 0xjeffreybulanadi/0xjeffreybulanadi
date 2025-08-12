@@ -1,7 +1,7 @@
 # Yo, Why are you here? Looking for me?
 
 > *Private stash. Git lost.*  
-> ~ You think you know me? Then think twice.
+> think twice.
 
 ---
 
